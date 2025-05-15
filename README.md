@@ -80,27 +80,49 @@ Además de las consultas y desarrollo del análisis elaborado en T-SQL/SQL Serve
 ## 📁 ESTRUCTURA DEL REPOSITORIO
 
 Analyzing-Online-Sports-Revenue/
+
 │
+
 ├── Analisis Inicial - KPIS.sql
+
 ├── Analysis Avanzado.sql
+
 ├── Creación de Tablas.sql
+
 │
+
 ├── images/
+
 │ ├── Carga de Columnas de Archivo csv.png
+
 │ ├── Conexiones de Datos.png
+
 │ ├── Estructura Base.png
+
 │ ├── Flujo de Datos.png
+
 │ ├── Limpieza Inicial de Tablas.png
+
 │ └── Transformación de Datos.png
+
 │
+
 ├── data/
+
 │ ├── info.csv
+
 │ ├── finance.csv
+
 │ ├── traffic.csv
+
 │ ├── brands.csv
+
 │ └── reviews.csv
+
 │
+
 └── README.md
+
 
 ---
 
