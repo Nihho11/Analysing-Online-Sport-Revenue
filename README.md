@@ -6,12 +6,12 @@ Este proyecto aplica técnicas avanzadas de **SQL Server** y procesos ETL con **
 
 ## 📌 Descripción del Proyecto
 
-El análisis se basa en un conjunto de cinco tablas que contienen información sobre productos, precios, tráfico web, calificaciones y marcas. El flujo de trabajo completo incluye:
+El análisis se basa en un conjunto de cinco tablas que contienen información sobre productos, precios, tráfico web, calificaciones y marcas. El desarrollo del proyecto se encuentra en los archivos ".sql". El flujo de trabajo completo incluye:
 
 - Extracción y carga de datos desde archivos CSV usando **SSIS**.
 - Modelado relacional y limpieza básica.
-- Creación de vistas y consultas avanzadas con funciones de ventana, CTEs, joins, filtros y rankings.
-- Optimización de consultas con **índices** y vistas con `SCHEMABINDING`.
+- Creación de vistas y consultas avanzadas con funciones, CTEs, joins, filtros y rankings.
+- Optimización de consultas con **índices**.
 - Respuesta a preguntas de negocio reales, con foco en maximizar el revenue y tomar decisiones basadas en datos.
 
 ---
