@@ -4,7 +4,7 @@ Este proyecto aplica técnicas avanzadas de **SQL Server** y procesos ETL con **
 
 ---
 
-## 📌 DESCRIPCIÓN DEL PROYECTO
+## 📌 Descripción del Proyecto
 
 El análisis se basa en un conjunto de cinco tablas que contienen información sobre productos, precios, tráfico web, calificaciones y marcas. El flujo de trabajo completo incluye:
 
@@ -16,7 +16,7 @@ El análisis se basa en un conjunto de cinco tablas que contienen información s
 
 ---
 
-## ❓ DUDAS QUE RESPONDÍ
+## ❓ Dudas que Respondí
 
 Las siguientes preguntas de negocio se respondieron mediante consultas en SQL avanzado:
 
@@ -28,7 +28,7 @@ entre otras...
 
 ---
 
-## 📊 VISUALIZACIONES
+## 📊 Visualizaciones
 
 Además de las consultas y desarrollo del análisis elaborado en T-SQL/SQL Server, se realizó un proceso de ETL desde SQL Server Integration Services, algunos de procesos se muestran a continuación:
 
@@ -69,7 +69,7 @@ Además de las consultas y desarrollo del análisis elaborado en T-SQL/SQL Serve
 
 
 ---
-## 🛠️ HERRAMIENTAS UTILIZADAS
+## 🛠️ Herramientas Utilizadas
 
 - **SQL Server Management Studio (SSMS)** – modelado, consultas, vistas, CTEs, optimización con índices.
 - **SQL Server Integration Services (SSIS)** – carga de archivos CSV a tablas de SQL Server.
@@ -77,7 +77,7 @@ Además de las consultas y desarrollo del análisis elaborado en T-SQL/SQL Serve
 
 ---
 
-## 📁 ESTRUCTURA DEL REPOSITORIO
+## 📁 Estructura del Repositorio
 
 Analyzing-Online-Sports-Revenue/
 
@@ -126,21 +126,21 @@ Analyzing-Online-Sports-Revenue/
 
 ---
 
-## 📝 NOTAS
+## 📝 Notas
 
 - La data, en su mayoría limpia, fue tomada de un dataset de Kaggle.
 - Se evitaron herramientas externas como Power BI o Python para enfocarse exclusivamente en SQL avanzado y procesos ETL nativos con Microsoft SQL Server.
 
 ---
 
-## 📂 DATASET
+## 📂 Dataset
 
 - Fuente: Kaggle – [Optimizing Online Sports Retail Revenue](https://www.kaggle.com/datasets/irenewidyastuti/datacamp-optimizing-online-sports-retail-revenue/data)
 - Tipo de datos: sintéticos, representativos de un entorno de e-commerce enfocado en productos deportivos.
 
 ---
 
-## 📬 CONTACTO
+## 📬 Contacto
 
 ¿Tienes sugerencias o quieres colaborar?  
 ¡Contáctame por LinkedIn o revisa más proyectos en mi portafolio!
