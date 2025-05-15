@@ -34,37 +34,37 @@ Además de las consultas y desarrollo del análisis elaborado en T-SQL/SQL Serve
 
 ### 🔌 Conexiones de Datos
 
-![Conexiones de Datos](images/Conexiones%20de%20Datos.png)  
+![Conexiones de Datos](Images/Conexiones%20de%20Datos.png)  
 *Configuración de orígenes y destinos para la carga de archivos CSV en SQL Server.*
 
 
 ### 📐 Estructura Base
 
-![Estructura Base](images/Estructura%20Base.png)  
+![Estructura Base](Images/Estructura%20Base.png)  
 *Vista general del diseño del paquete SSIS con sus contenedores de control y flujo de datos.*
 
 
 ### 📁 Carga de Columnas de Archivo CSV
 
-![Carga de Columnas de Archivo csv](images/Carga%20de%20Columnas%20de%20Archivo%20csv.png)  
+![Carga de Columnas de Archivo csv](Images/Carga%20de%20Columnas%20de%20Archivo%20csv.png)  
 *Mapeo de columnas desde los archivos CSV hacia las tablas destino en SQL Server.*
 
 
 ### 🔄 Flujo de Datos
 
-![Flujo de Datos](images/Flujo%20de%20Datos.png)  
+![Flujo de Datos](Images/Flujo%20de%20Datos.png)  
 *Representación del pipeline completo del flujo de datos dentro de SSIS.*
 
 
 ### 🧹 Limpieza Inicial de Tablas
 
-![Limpieza Inicial de Tablas](images/Limpieza%20Inicial%20de%20Tablas.png)  
+![Limpieza Inicial de Tablas](Images/Limpieza%20Inicial%20de%20Tablas.png)  
 *Paso intermedio donde se realizan tareas de limpieza antes de la transformación.*
 
 
 ### 🔧 Transformación de Datos
 
-![Transformación de Datos](images/Transformación%20de%20Datos.png)  
+![Transformación de Datos](Images/Transformación%20de%20Datos.png)  
 *Aplicación de transformaciones sobre los datos antes de ser insertados en tablas definitivas.*
 
 
@@ -128,9 +128,8 @@ Analyzing-Online-Sports-Revenue/
 
 ## 📝 NOTAS
 
-- La data en su mayoría limpia fue tomada de un dataset de Kaggle.
+- La data, en su mayoría limpia, fue tomada de un dataset de Kaggle.
 - Se evitaron herramientas externas como Power BI o Python para enfocarse exclusivamente en SQL avanzado y procesos ETL nativos con Microsoft SQL Server.
-- El uso de `WITH SCHEMABINDING` fue explorado para posibles vistas indexadas, aunque no se implementó por requerimientos de diseño.
 
 ---
 
@@ -149,4 +148,3 @@ Analyzing-Online-Sports-Revenue/
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/eduardo-alfonso-haro-villanueva-baa50a261/)  
 🌐 [Mi portafolio](https://portafolio-eharo.carrd.co/)
 
----
